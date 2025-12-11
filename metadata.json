@@ -1,0 +1,5 @@
+{
+  "name": "CARINA",
+  "description": "A lightweight, immersive 360° equirectangular media player for VR experiences, featuring AI-powered scene analysis.",
+  "requestFramePermissions": []
+}
